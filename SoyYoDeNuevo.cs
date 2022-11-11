@@ -15,6 +15,7 @@ namespace SoyYoDeNuevo
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("HOLA MUNDO!");
+			Console.WriteLine("Soy yo de nuevo");
 
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
