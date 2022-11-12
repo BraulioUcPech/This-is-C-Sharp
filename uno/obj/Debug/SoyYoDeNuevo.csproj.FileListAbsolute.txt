@@ -1,0 +1,6 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\SoyYoDeNuevo\bin\Debug\SoyYoDeNuevo.exe.config
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\SoyYoDeNuevo\bin\Debug\SoyYoDeNuevo.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\SoyYoDeNuevo\bin\Debug\SoyYoDeNuevo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\SoyYoDeNuevo\obj\Debug\SoyYoDeNuevo.csprojResolveAssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\SoyYoDeNuevo\obj\Debug\SoyYoDeNuevo.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\SoyYoDeNuevo\obj\Debug\SoyYoDeNuevo.pdb

@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\bin\Debug\net6.0\velocidadKMH.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\bin\Debug\net6.0\velocidadKMH.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\bin\Debug\net6.0\velocidadKMH.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\bin\Debug\net6.0\velocidadKMH.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\bin\Debug\net6.0\velocidadKMH.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\refint\velocidadKMH.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\velocidadKMH.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\velocidadKMH\obj\Debug\net6.0\ref\velocidadKMH.dll

@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\bin\Debug\net6.0\trescalificacionesSuma.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\bin\Debug\net6.0\trescalificacionesSuma.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\bin\Debug\net6.0\trescalificacionesSuma.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\bin\Debug\net6.0\trescalificacionesSuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\bin\Debug\net6.0\trescalificacionesSuma.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\refint\trescalificacionesSuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\trescalificacionesSuma.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\trescalificacionesSuma\obj\Debug\net6.0\ref\trescalificacionesSuma.dll
