@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\bin\Debug\net6.0\areaTriangulo.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\bin\Debug\net6.0\areaTriangulo.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\bin\Debug\net6.0\areaTriangulo.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\bin\Debug\net6.0\areaTriangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\bin\Debug\net6.0\areaTriangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\refint\areaTriangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\areaTriangulo.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaTriangulo\obj\Debug\net6.0\ref\areaTriangulo.dll

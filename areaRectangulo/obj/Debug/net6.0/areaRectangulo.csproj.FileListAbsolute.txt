@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\bin\Debug\net6.0\areaRectangulo.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\bin\Debug\net6.0\areaRectangulo.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\bin\Debug\net6.0\areaRectangulo.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\bin\Debug\net6.0\areaRectangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\bin\Debug\net6.0\areaRectangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\refint\areaRectangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\areaRectangulo.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaRectangulo\obj\Debug\net6.0\ref\areaRectangulo.dll

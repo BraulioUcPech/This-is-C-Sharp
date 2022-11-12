@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\bin\Debug\net6.0\areaVolumen.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\bin\Debug\net6.0\areaVolumen.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\bin\Debug\net6.0\areaVolumen.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\bin\Debug\net6.0\areaVolumen.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\bin\Debug\net6.0\areaVolumen.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\refint\areaVolumen.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\areaVolumen.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areaVolumen\obj\Debug\net6.0\ref\areaVolumen.dll
