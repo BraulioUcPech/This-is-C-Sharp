@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\bin\Debug\net6.0\promediodecuatrocalificaciones.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\bin\Debug\net6.0\promediodecuatrocalificaciones.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\bin\Debug\net6.0\promediodecuatrocalificaciones.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\bin\Debug\net6.0\promediodecuatrocalificaciones.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\bin\Debug\net6.0\promediodecuatrocalificaciones.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\refint\promediodecuatrocalificaciones.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\promediodecuatrocalificaciones.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\promediodecuatrocalificaciones\obj\Debug\net6.0\ref\promediodecuatrocalificaciones.dll

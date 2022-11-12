@@ -1,0 +1,5 @@
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\promedio_cal\bin\Debug\promedio_cal.exe
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\promedio_cal\bin\Debug\promedio_cal.pdb
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\promedio_cal\obj\Debug\promedio_cal.csprojResolveAssemblyReference.cache
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\promedio_cal\obj\Debug\promedio_cal.exe
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\promedio_cal\obj\Debug\promedio_cal.pdb

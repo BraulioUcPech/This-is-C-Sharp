@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\bin\Debug\net6.0\HipotenusaTriangulo.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\bin\Debug\net6.0\HipotenusaTriangulo.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\bin\Debug\net6.0\HipotenusaTriangulo.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\bin\Debug\net6.0\HipotenusaTriangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\bin\Debug\net6.0\HipotenusaTriangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\refint\HipotenusaTriangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\HipotenusaTriangulo.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\HipotenusaTriangulo\obj\Debug\net6.0\ref\HipotenusaTriangulo.dll
