@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\bin\Debug\net6.0\AreaPerimetroRectangulo.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\bin\Debug\net6.0\AreaPerimetroRectangulo.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\bin\Debug\net6.0\AreaPerimetroRectangulo.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\bin\Debug\net6.0\AreaPerimetroRectangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\bin\Debug\net6.0\AreaPerimetroRectangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\refint\AreaPerimetroRectangulo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\AreaPerimetroRectangulo.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\AreaPerimetroRectangulo\obj\Debug\net6.0\ref\AreaPerimetroRectangulo.dll

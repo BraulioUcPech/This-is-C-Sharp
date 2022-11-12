@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\bin\Debug\net6.0\areacuadrado.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\bin\Debug\net6.0\areacuadrado.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\bin\Debug\net6.0\areacuadrado.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\bin\Debug\net6.0\areacuadrado.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\bin\Debug\net6.0\areacuadrado.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\refint\areacuadrado.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\areacuadrado.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\areacuadrado\obj\Debug\net6.0\ref\areacuadrado.dll

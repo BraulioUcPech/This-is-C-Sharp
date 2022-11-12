@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\bin\Debug\net6.0\añoNacimiento.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\bin\Debug\net6.0\añoNacimiento.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\bin\Debug\net6.0\añoNacimiento.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\bin\Debug\net6.0\añoNacimiento.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\bin\Debug\net6.0\añoNacimiento.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\refint\añoNacimiento.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\añoNacimiento.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\añoNacimiento\obj\Debug\net6.0\ref\añoNacimiento.dll
