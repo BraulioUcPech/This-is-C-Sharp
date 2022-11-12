@@ -1,0 +1,5 @@
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\cal_edad\obj\Debug\cal_edad.csprojResolveAssemblyReference.cache
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\cal_edad\bin\Debug\cal_edad.exe
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\cal_edad\bin\Debug\cal_edad.pdb
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\cal_edad\obj\Debug\cal_edad.exe
+C:\Users\52999\Documents\SharpDevelop Projects\unidad3_1J\cal_edad\obj\Debug\cal_edad.pdb

@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\bin\Debug\net6.0\cantidadpesosadolares.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\bin\Debug\net6.0\cantidadpesosadolares.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\bin\Debug\net6.0\cantidadpesosadolares.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\bin\Debug\net6.0\cantidadpesosadolares.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\bin\Debug\net6.0\cantidadpesosadolares.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\refint\cantidadpesosadolares.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\cantidadpesosadolares.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cantidadpesosadolares\obj\Debug\net6.0\ref\cantidadpesosadolares.dll

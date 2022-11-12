@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\bin\Debug\net6.0\calificacionFinal.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\bin\Debug\net6.0\calificacionFinal.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\bin\Debug\net6.0\calificacionFinal.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\bin\Debug\net6.0\calificacionFinal.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\bin\Debug\net6.0\calificacionFinal.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\refint\calificacionFinal.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\calificacionFinal.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calificacionFinal\obj\Debug\net6.0\ref\calificacionFinal.dll
