@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\bin\Debug\net6.0\gradosCelsiusFahrenheit.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\bin\Debug\net6.0\gradosCelsiusFahrenheit.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\bin\Debug\net6.0\gradosCelsiusFahrenheit.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\bin\Debug\net6.0\gradosCelsiusFahrenheit.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\bin\Debug\net6.0\gradosCelsiusFahrenheit.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\refint\gradosCelsiusFahrenheit.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\gradosCelsiusFahrenheit.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\gradosCelsiusFahrenheit\obj\Debug\net6.0\ref\gradosCelsiusFahrenheit.dll

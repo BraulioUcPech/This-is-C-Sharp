@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\bin\Debug\net6.0\dosnumerosysuma.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\bin\Debug\net6.0\dosnumerosysuma.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\bin\Debug\net6.0\dosnumerosysuma.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\bin\Debug\net6.0\dosnumerosysuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\bin\Debug\net6.0\dosnumerosysuma.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\refint\dosnumerosysuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\dosnumerosysuma.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosysuma\obj\Debug\net6.0\ref\dosnumerosysuma.dll
