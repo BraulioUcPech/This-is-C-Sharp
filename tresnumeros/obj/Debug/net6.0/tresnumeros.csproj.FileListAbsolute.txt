@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\bin\Debug\net6.0\tresnumeros.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\bin\Debug\net6.0\tresnumeros.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\bin\Debug\net6.0\tresnumeros.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\bin\Debug\net6.0\tresnumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\bin\Debug\net6.0\tresnumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\refint\tresnumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\tresnumeros.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\tresnumeros\obj\Debug\net6.0\ref\tresnumeros.dll

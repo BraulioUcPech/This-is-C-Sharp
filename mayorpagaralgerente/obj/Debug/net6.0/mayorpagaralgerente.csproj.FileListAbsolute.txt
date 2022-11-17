@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\bin\Debug\net6.0\mayorpagaralgerente.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\bin\Debug\net6.0\mayorpagaralgerente.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\bin\Debug\net6.0\mayorpagaralgerente.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\bin\Debug\net6.0\mayorpagaralgerente.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\bin\Debug\net6.0\mayorpagaralgerente.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\refint\mayorpagaralgerente.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\mayorpagaralgerente.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayorpagaralgerente\obj\Debug\net6.0\ref\mayorpagaralgerente.dll
