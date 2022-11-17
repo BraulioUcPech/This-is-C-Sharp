@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\bin\Debug\net6.0\pagoporhorasestras.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\bin\Debug\net6.0\pagoporhorasestras.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\bin\Debug\net6.0\pagoporhorasestras.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\bin\Debug\net6.0\pagoporhorasestras.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\bin\Debug\net6.0\pagoporhorasestras.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\refint\pagoporhorasestras.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\pagoporhorasestras.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\pagoporhorasestras\obj\Debug\net6.0\ref\pagoporhorasestras.dll

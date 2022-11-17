@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\bin\Debug\net6.0\mejorYpeor.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\bin\Debug\net6.0\mejorYpeor.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\bin\Debug\net6.0\mejorYpeor.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\bin\Debug\net6.0\mejorYpeor.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\bin\Debug\net6.0\mejorYpeor.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\refint\mejorYpeor.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\mejorYpeor.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mejorYpeor\obj\Debug\net6.0\ref\mejorYpeor.dll

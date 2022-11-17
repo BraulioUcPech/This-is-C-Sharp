@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\bin\Debug\net6.0\colordeboladescuento.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\bin\Debug\net6.0\colordeboladescuento.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\bin\Debug\net6.0\colordeboladescuento.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\bin\Debug\net6.0\colordeboladescuento.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\bin\Debug\net6.0\colordeboladescuento.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\refint\colordeboladescuento.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\colordeboladescuento.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\colordeboladescuento\obj\Debug\net6.0\ref\colordeboladescuento.dll
