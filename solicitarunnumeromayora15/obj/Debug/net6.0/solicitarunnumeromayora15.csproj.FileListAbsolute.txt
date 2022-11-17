@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\bin\Debug\net6.0\solicitarunnumeromayora15.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\bin\Debug\net6.0\solicitarunnumeromayora15.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\bin\Debug\net6.0\solicitarunnumeromayora15.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\bin\Debug\net6.0\solicitarunnumeromayora15.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\bin\Debug\net6.0\solicitarunnumeromayora15.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\refint\solicitarunnumeromayora15.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\solicitarunnumeromayora15.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarunnumeromayora15\obj\Debug\net6.0\ref\solicitarunnumeromayora15.dll

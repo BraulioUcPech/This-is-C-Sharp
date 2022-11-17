@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\bin\Debug\net6.0\solicitarDosNumeros.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\bin\Debug\net6.0\solicitarDosNumeros.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\bin\Debug\net6.0\solicitarDosNumeros.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\bin\Debug\net6.0\solicitarDosNumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\bin\Debug\net6.0\solicitarDosNumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\refint\solicitarDosNumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\solicitarDosNumeros.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\solicitarDosNumeros\obj\Debug\net6.0\ref\solicitarDosNumeros.dll
