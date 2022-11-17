@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\bin\Debug\net6.0\mayordeedad.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\bin\Debug\net6.0\mayordeedad.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\bin\Debug\net6.0\mayordeedad.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\bin\Debug\net6.0\mayordeedad.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\bin\Debug\net6.0\mayordeedad.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\refint\mayordeedad.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\mayordeedad.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordeedad\obj\Debug\net6.0\ref\mayordeedad.dll

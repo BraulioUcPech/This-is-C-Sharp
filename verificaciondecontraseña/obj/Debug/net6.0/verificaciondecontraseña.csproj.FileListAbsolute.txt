@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\bin\Debug\net6.0\verificaciondecontraseña.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\bin\Debug\net6.0\verificaciondecontraseña.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\bin\Debug\net6.0\verificaciondecontraseña.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\bin\Debug\net6.0\verificaciondecontraseña.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\bin\Debug\net6.0\verificaciondecontraseña.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\refint\verificaciondecontraseña.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\verificaciondecontraseña.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\verificaciondecontraseña\obj\Debug\net6.0\ref\verificaciondecontraseña.dll

@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\bin\Debug\net6.0\descuentoProducto.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\bin\Debug\net6.0\descuentoProducto.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\bin\Debug\net6.0\descuentoProducto.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\bin\Debug\net6.0\descuentoProducto.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\bin\Debug\net6.0\descuentoProducto.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\refint\descuentoProducto.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\descuentoProducto.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\descuentoProducto\obj\Debug\net6.0\ref\descuentoProducto.dll
