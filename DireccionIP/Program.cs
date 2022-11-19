@@ -32,7 +32,7 @@ namespace DireccionIP{
 
             if (opcion == "1"){
                 //reiniciar
-                string comando = "shutdown -m 10.10.0.89 -r -f -t 60 ";
+                string comando = "shutdown -m 1.1.0.0 -r -f -t 60 ";
                 ProcessStartInfo psi = new ProcessStartInfo("cmd.exe", "/c " + comando);
                 psi.RedirectStandardOutput = true;
                 psi.UseShellExecute = false;
