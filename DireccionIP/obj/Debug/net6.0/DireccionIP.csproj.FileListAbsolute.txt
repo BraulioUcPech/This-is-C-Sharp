@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\bin\Debug\net6.0\DireccionIP.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\bin\Debug\net6.0\DireccionIP.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\bin\Debug\net6.0\DireccionIP.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\bin\Debug\net6.0\DireccionIP.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\bin\Debug\net6.0\DireccionIP.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\refint\DireccionIP.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\DireccionIP.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\DireccionIP\obj\Debug\net6.0\ref\DireccionIP.dll
