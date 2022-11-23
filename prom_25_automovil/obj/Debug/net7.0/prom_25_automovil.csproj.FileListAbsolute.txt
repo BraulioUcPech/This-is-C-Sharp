@@ -1,0 +1,30 @@
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.csproj.AssemblyReference.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.AssemblyInfoInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.AssemblyInfo.cs
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.csproj.CoreCompileInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.exe
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.deps.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.runtimeconfig.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\refint\prom_25_automovil.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.genruntimeconfig.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\ref\prom_25_automovil.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\bin\Debug\net7.0\prom_25_automovil.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\refint\prom_25_automovil.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\prom_25_automovil.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\prom_25_automovil\obj\Debug\net7.0\ref\prom_25_automovil.dll
