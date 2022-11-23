@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\bin\Debug\net7.0\mayordecuatronumeros.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\bin\Debug\net7.0\mayordecuatronumeros.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\bin\Debug\net7.0\mayordecuatronumeros.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\bin\Debug\net7.0\mayordecuatronumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\bin\Debug\net7.0\mayordecuatronumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\refint\mayordecuatronumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\mayordecuatronumeros.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mayordecuatronumeros\obj\Debug\net7.0\ref\mayordecuatronumeros.dll
