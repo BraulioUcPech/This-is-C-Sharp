@@ -1,0 +1,30 @@
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.csproj.AssemblyReference.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.AssemblyInfoInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.AssemblyInfo.cs
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.csproj.CoreCompileInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.exe
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.deps.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.runtimeconfig.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\refint\calcularalumnos7.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.genruntimeconfig.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\ref\calcularalumnos7.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\bin\Debug\net7.0\calcularalumnos7.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\refint\calcularalumnos7.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\calcularalumnos7.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\calcularalumnos7\obj\Debug\net7.0\ref\calcularalumnos7.dll
