@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\bin\Debug\net7.0\aguafunciotemperatura.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\bin\Debug\net7.0\aguafunciotemperatura.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\bin\Debug\net7.0\aguafunciotemperatura.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\bin\Debug\net7.0\aguafunciotemperatura.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\bin\Debug\net7.0\aguafunciotemperatura.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\refint\aguafunciotemperatura.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\aguafunciotemperatura.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\aguafunciotemperatura\obj\Debug\net7.0\ref\aguafunciotemperatura.dll
