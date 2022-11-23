@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\bin\Debug\net7.0\50personaspromediopeso.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\bin\Debug\net7.0\50personaspromediopeso.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\bin\Debug\net7.0\50personaspromediopeso.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\bin\Debug\net7.0\50personaspromediopeso.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\bin\Debug\net7.0\50personaspromediopeso.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\refint\50personaspromediopeso.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\50personaspromediopeso.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50personaspromediopeso\obj\Debug\net7.0\ref\50personaspromediopeso.dll
