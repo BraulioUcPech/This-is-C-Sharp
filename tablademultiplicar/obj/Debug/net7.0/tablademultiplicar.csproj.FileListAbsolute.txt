@@ -1,0 +1,15 @@
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\bin\Debug\net7.0\tablademultiplicar.exe
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\bin\Debug\net7.0\tablademultiplicar.deps.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\bin\Debug\net7.0\tablademultiplicar.runtimeconfig.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\bin\Debug\net7.0\tablademultiplicar.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\bin\Debug\net7.0\tablademultiplicar.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.csproj.AssemblyReference.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.AssemblyInfoInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.AssemblyInfo.cs
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\refint\tablademultiplicar.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\tablademultiplicar.genruntimeconfig.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\tablademultiplicar\obj\Debug\net7.0\ref\tablademultiplicar.dll
