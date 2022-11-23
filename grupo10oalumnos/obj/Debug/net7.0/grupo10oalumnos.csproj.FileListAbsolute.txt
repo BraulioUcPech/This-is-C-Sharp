@@ -1,0 +1,30 @@
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.exe
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.deps.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.runtimeconfig.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.csproj.AssemblyReference.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.AssemblyInfoInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.AssemblyInfo.cs
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.csproj.CoreCompileInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\refint\grupo10oalumnos.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.genruntimeconfig.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\ref\grupo10oalumnos.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\refint\grupo10oalumnos.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\bin\Debug\net7.0\grupo10oalumnos.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\grupo10oalumnos.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\grupo10oalumnos\obj\Debug\net7.0\ref\grupo10oalumnos.dll
