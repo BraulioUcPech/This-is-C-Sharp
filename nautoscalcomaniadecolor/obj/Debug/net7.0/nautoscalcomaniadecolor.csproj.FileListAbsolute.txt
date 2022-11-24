@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\bin\Debug\net7.0\nautoscalcomaniadecolor.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\bin\Debug\net7.0\nautoscalcomaniadecolor.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\bin\Debug\net7.0\nautoscalcomaniadecolor.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\bin\Debug\net7.0\nautoscalcomaniadecolor.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\bin\Debug\net7.0\nautoscalcomaniadecolor.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\refint\nautoscalcomaniadecolor.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\nautoscalcomaniadecolor.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\nautoscalcomaniadecolor\obj\Debug\net7.0\ref\nautoscalcomaniadecolor.dll

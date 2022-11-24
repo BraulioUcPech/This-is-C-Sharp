@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\bin\Debug\net7.0\transformetodaslasletras.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\bin\Debug\net7.0\transformetodaslasletras.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\bin\Debug\net7.0\transformetodaslasletras.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\bin\Debug\net7.0\transformetodaslasletras.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\bin\Debug\net7.0\transformetodaslasletras.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\refint\transformetodaslasletras.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\transformetodaslasletras.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\transformetodaslasletras\obj\Debug\net7.0\ref\transformetodaslasletras.dll
