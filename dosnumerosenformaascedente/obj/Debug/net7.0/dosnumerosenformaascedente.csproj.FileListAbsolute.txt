@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\bin\Debug\net7.0\dosnumerosenformaascedente.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\bin\Debug\net7.0\dosnumerosenformaascedente.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\bin\Debug\net7.0\dosnumerosenformaascedente.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\bin\Debug\net7.0\dosnumerosenformaascedente.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\bin\Debug\net7.0\dosnumerosenformaascedente.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\refint\dosnumerosenformaascedente.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\dosnumerosenformaascedente.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\dosnumerosenformaascedente\obj\Debug\net7.0\ref\dosnumerosenformaascedente.dll

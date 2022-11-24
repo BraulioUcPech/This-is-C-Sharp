@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\bin\Debug\net7.0\diadelasamanamonstrarnombre.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\bin\Debug\net7.0\diadelasamanamonstrarnombre.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\bin\Debug\net7.0\diadelasamanamonstrarnombre.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\bin\Debug\net7.0\diadelasamanamonstrarnombre.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\bin\Debug\net7.0\diadelasamanamonstrarnombre.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\refint\diadelasamanamonstrarnombre.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\diadelasamanamonstrarnombre.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\diadelasamanamonstrarnombre\obj\Debug\net7.0\ref\diadelasamanamonstrarnombre.dll

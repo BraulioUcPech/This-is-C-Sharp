@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\bin\Debug\net7.0\unnumerounmes.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\bin\Debug\net7.0\unnumerounmes.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\bin\Debug\net7.0\unnumerounmes.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\bin\Debug\net7.0\unnumerounmes.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\bin\Debug\net7.0\unnumerounmes.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\refint\unnumerounmes.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\unnumerounmes.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\unnumerounmes\obj\Debug\net7.0\ref\unnumerounmes.dll
