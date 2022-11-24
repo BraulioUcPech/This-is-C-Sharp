@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\bin\Debug\net7.0\50calificacionesrepro.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\bin\Debug\net7.0\50calificacionesrepro.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\bin\Debug\net7.0\50calificacionesrepro.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\bin\Debug\net7.0\50calificacionesrepro.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\bin\Debug\net7.0\50calificacionesrepro.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\refint\50calificacionesrepro.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\50calificacionesrepro.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\50calificacionesrepro\obj\Debug\net7.0\ref\50calificacionesrepro.dll

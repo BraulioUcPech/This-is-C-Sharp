@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\bin\Debug\net7.0\crearuncuadrado.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\bin\Debug\net7.0\crearuncuadrado.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\bin\Debug\net7.0\crearuncuadrado.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\bin\Debug\net7.0\crearuncuadrado.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\bin\Debug\net7.0\crearuncuadrado.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\refint\crearuncuadrado.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\crearuncuadrado.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\crearuncuadrado\obj\Debug\net7.0\ref\crearuncuadrado.dll
