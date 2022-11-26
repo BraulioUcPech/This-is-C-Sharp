@@ -1,0 +1,30 @@
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.exe
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.deps.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.runtimeconfig.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.csproj.AssemblyReference.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.AssemblyInfoInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.AssemblyInfo.cs
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\refint\cicloDoWhile.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.genruntimeconfig.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\ref\cicloDoWhile.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\refint\cicloDoWhile.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\cicloDoWhile\obj\Debug\net7.0\ref\cicloDoWhile.dll

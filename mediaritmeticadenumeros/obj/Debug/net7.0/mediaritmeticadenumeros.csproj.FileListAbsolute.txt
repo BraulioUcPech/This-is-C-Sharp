@@ -1,0 +1,30 @@
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.csproj.AssemblyReference.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.AssemblyInfoInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.AssemblyInfo.cs
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.csproj.CoreCompileInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.exe
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.deps.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.runtimeconfig.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\refint\mediaritmeticadenumeros.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.genruntimeconfig.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\ref\mediaritmeticadenumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\bin\Debug\net7.0\mediaritmeticadenumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\refint\mediaritmeticadenumeros.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\mediaritmeticadenumeros.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\mediaritmeticadenumeros\obj\Debug\net7.0\ref\mediaritmeticadenumeros.dll

@@ -1,0 +1,30 @@
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.exe
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.deps.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.runtimeconfig.json
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.csproj.AssemblyReference.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.AssemblyInfoInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.AssemblyInfo.cs
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.csproj.CoreCompileInputs.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\refint\ventasypromediosuma.dll
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.pdb
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.genruntimeconfig.cache
+C:\Users\braul\OneDrive\Documents\Programacion\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ref\ventasypromediosuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\bin\Debug\net7.0\ventasypromediosuma.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\refint\ventasypromediosuma.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ventasypromediosuma.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\ventasypromediosuma\obj\Debug\net7.0\ref\ventasypromediosuma.dll

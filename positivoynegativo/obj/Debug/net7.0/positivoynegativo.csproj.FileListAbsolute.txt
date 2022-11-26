@@ -1,0 +1,15 @@
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\bin\Debug\net7.0\positivoynegativo.exe
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\bin\Debug\net7.0\positivoynegativo.deps.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\bin\Debug\net7.0\positivoynegativo.runtimeconfig.json
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\bin\Debug\net7.0\positivoynegativo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\bin\Debug\net7.0\positivoynegativo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.csproj.AssemblyReference.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.AssemblyInfoInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.AssemblyInfo.cs
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.csproj.CoreCompileInputs.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\refint\positivoynegativo.dll
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.pdb
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\positivoynegativo.genruntimeconfig.cache
+C:\Users\braulio\Documents\Programacion\Aprendiendo Csharp\SoyYoDeNuevo\positivoynegativo\obj\Debug\net7.0\ref\positivoynegativo.dll
